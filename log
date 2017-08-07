@@ -1,0 +1,147 @@
+==> Cipher.cpp <==
+// dp, same sum strings are interconvertible type query
+// http://codeforces.com/problemset/problem/156/C
+
+==> Cmikeandgcd.cpp <==
+#include<bits/stdc++.h>
+using namespace std;
+
+==> correctbracket.cpp <==
+//usage of stack, maintain dynammic left and right bracket present :)
+//http://codeforces.com/problemset/problem/670/E
+
+==> Dgreenblacktea.cpp <==
+//easy greedy observation and a little implementation problem.
+//http://codeforces.com/problemset/problem/746/D
+
+==> DInstantmessanger.cpp <==
+#include<bits/stdc++.h>
+using namespace std;
+
+==> DLegacy.cpp <==
+#include<bits/stdc++.h>
+using namespace std;
+
+==> doctor.cpp <==
+// In case of long long see that everything is long long
+// Problem I faced here is I multiplied with int and it got type casted
+
+==> Dwinter.cpp <==
+//nice greedy problem, good observation that if atleast one negative, then ans>=1
+//http://codeforces.com/problemset/problem/747/D
+
+==> Echoosingballs.cpp <==
+// dp, maintaing max and second max
+// http://codeforces.com/contest/264/problem/C
+
+==> Ecivilization.cpp <==
+// 3e5 input and output ->TLE for cin/cout!!
+// dsu, diameter of tree, tree construction
+
+==> Efoolsandroads_ajs.cpp <==
+#include <bits/stdc++.h>
+
+
+==> Efoolsandroads.cpp <==
+#include<bits/stdc++.h>
+using namespace std;
+
+==> Egamesandrectangles.cpp <==
+// Nice combinatorics question
+// http://codeforces.com/problemset/problem/128/C
+
+==> Einv_Endagorion.cpp <==
+#include <iostream>
+#include <vector>
+
+==> Elomsatgelral.cpp <==
+#include<bits/stdc++.h>
+using namespace std;
+
+==> Emahmoudandaxortrip.cpp <==
+// Important: While using & operator enclose between bracket and type cast.
+// http://codeforces.com/problemset/problem/766/E
+
+==> Enemyisweak.cpp <==
+// BIT, coordinate compression, number of inversions extension
+// http://codeforces.com/problemset/problem/61/E
+
+==> EPashmakandgraph.cpp <==
+// Very good dp problem, my first question from a2oj
+// 3*10^5 push_back of make_pair can get TLE!!
+
+==> Epropagation.cpp <==
+// bit, Tin-Tout
+// My first problem I solved using bit, and alldo Tin-Tout.
+
+==> Ereverseoperatons.cpp <==
+// Inversions, and reverting subarrays
+// nice property on inversions while reverting subarrays
+
+==> Eridinginalift.cpp <==
+// dp with maintaining prefix sum
+// http://codeforces.com/problemset/problem/479/E
+
+==> Esausagemaximization.cpp <==
+// trie of suffix xor and best match with prefix xor
+// Irritating problem of ll and int
+
+==> Eserjaandbrackets.cpp <==
+// Segment tree, nice combine step.
+// http://codeforces.com/problemset/problem/380/C
+
+==> Esubsegments.cpp <==
+// Direct use of map and set
+// http://codeforces.com/problemset/problem/69/E
+
+==> Ewhite-red.cpp <==
+//simple observations and very nice graph construction.
+//http://codeforces.com/problemset/problem/755/E
+
+==> Exoronsegment.cpp <==
+// Lazy Propagation, array -> arrays of bits.
+// My first question I solved using lazy propagation, though I used others code(see bookmark)
+
+==> Eyetanothertaskwithqueen.cpp <==
+// sorting, queen placing implementation.
+// very simple problem.(Maybe it shouldn't be E)
+
+==> Fgeometricprogression.cpp <==
+//my first Div-2 F
+//simple question for a F, but nice observations made
+
+==> Fish.cpp <==
+// My first bitmask-dp which I solved without referring tutorial, tags: bitmask-dp, bfs
+// http://codeforces.com/problemset/problem/16/E
+
+==> flakes.cpp <==
+#include<bits/stdc++.h>
+using namespace std;
+
+==> Flayedflow.cpp <==
+// Barely related to flow, bfs, constructive
+// http://codeforces.com/problemset/problem/269/C
+
+==> Gnewroads.cpp <==
+//my first G solved without refering tutorial.
+//ans is bounded by min and max possible, and some implementation.
+
+==> Gregandfriends.cpp <==
+// My first problem after a long time, dp, nice state transition using bfs!!
+// http://codeforces.com/problemset/problem/295/C
+
+==> luckyqueries.cpp <==
+#include<bits/stdc++.h>
+using namespace std;
+
+==> MainSequence.cpp <==
+// TLE cout(even with sync) 1e6!! tags: cbs, greedy, stack
+// http://codeforces.com/problemset/problem/286/C
+
+==> rebus.cpp <==
+//existence of solution val bounded by min and max
+//http://codeforces.com/contest/663/problem/A
+
+==> spellingcheck.cpp <==
+//Didn't formulate dp properly and missed edge cases
+//http://codeforces.com/problemset/problem/39/J
